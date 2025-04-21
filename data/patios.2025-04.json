@@ -1,0 +1,2630 @@
+[
+  {
+    "Name": "East Van Brewing Co.",
+    "Address": "1675 Venables Street, Vancouver, BC",
+    "Neighbourhood": "Grandview-Woodland",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.4,
+    "UserComments": "Spacious patio with picnic tables, very dog-friendly staff",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded areas",
+      "Treats from staff"
+    ],
+    "Photos": [
+      {
+        "url": "https://eastvanbrewing.ca/patio.jpg",
+        "alt": "East Van Brewing Co. - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Large curbside patio with umbrellas for shade",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2762,
+      "Longitude": -123.0697,
+      "GoogleMapsURL": "https://goo.gl/maps/eastvanbrewing"
+    },
+    "Contact": {
+      "WebsiteURL": "https://eastvanbrewing.ca",
+      "Instagram": "@eastvanbrewing",
+      "Hours": "Mon-Sun 12pm-11pm"
+    },
+    "SEO": {
+      "metaTitle": "East Van Brewing Co. - Dog-Friendly Brewery in Grandview-Woodland, Vancouver",
+      "metaDescription": "Discover East Van Brewing Co., a dog-friendly brewery located in Grandview-Woodland, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "grandview-woodland",
+        "brewing",
+        "co.",
+        "van",
+        "vancouver",
+        "east",
+        "brewery"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061132Z",
+      "lastVerified": "2025-04-21T18:09:53.061141Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Mahony's Tavern False Creek",
+    "Address": "601 Stamps Landing, Vancouver, BC",
+    "Neighbourhood": "False Creek",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.2,
+    "UserComments": "Beautiful waterfront views, designated dog-friendly area",
+    "PetAmenities": [
+      "Water bowls",
+      "Designated dog area",
+      "Shaded spots"
+    ],
+    "Photos": [
+      {
+        "url": "https://mahonystavern.com/patio.jpg",
+        "alt": "Mahony's Tavern False Creek - dog-friendly patio view"
+      }
+    ],
+    "Notes": "First come first served for dog-friendly spots, waterfront location",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2668,
+      "Longitude": -123.1178,
+      "GoogleMapsURL": "https://goo.gl/maps/mahonys"
+    },
+    "Contact": {
+      "WebsiteURL": "https://mahonystavern.com",
+      "Instagram": "@mahonystavern",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "Mahony's Tavern False Creek - Dog-Friendly Pub in False Creek, Vancouver",
+      "metaDescription": "Discover Mahony's Tavern False Creek, a dog-friendly pub located in False Creek, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "mahony's",
+        "false",
+        "vancouver",
+        "creek",
+        "pub",
+        "tavern"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061169Z",
+      "lastVerified": "2025-04-21T18:09:53.061172Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Wicklow Pub",
+    "Address": "610 Stamps Landing, Vancouver, BC",
+    "Neighbourhood": "False Creek",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.3,
+    "UserComments": "Great marina views, dog-friendly staff bring water bowls",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded areas"
+    ],
+    "Photos": [
+      {
+        "url": "https://thewicklow.com/patio.jpg",
+        "alt": "The Wicklow Pub - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Next door to Mahony's, good alternative if Mahony's is full",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2669,
+      "Longitude": -123.1179,
+      "GoogleMapsURL": "https://goo.gl/maps/wicklow"
+    },
+    "Contact": {
+      "WebsiteURL": "https://thewicklow.com",
+      "Instagram": "@wicklowpub",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Wicklow Pub - Dog-Friendly Pub in False Creek, Vancouver",
+      "metaDescription": "Discover The Wicklow Pub, a dog-friendly pub located in False Creek, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "the",
+        "false",
+        "vancouver",
+        "creek",
+        "wicklow",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061191Z",
+      "lastVerified": "2025-04-21T18:09:53.061194Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Provence Marinaside",
+    "Address": "1177 Marinaside Crescent, Vancouver, BC",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "French",
+    "UserRating": 4.4,
+    "UserComments": "Upscale dining with dog-friendly patio, live jazz Wednesdays",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded areas"
+    ],
+    "Photos": [
+      {
+        "url": "https://provencemarinaside.ca/patio.jpg",
+        "alt": "Provence Marinaside - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Upscale French cuisine, live jazz on Wednesdays",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2723,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/provence"
+    },
+    "Contact": {
+      "WebsiteURL": "https://provencemarinaside.ca",
+      "Instagram": "@provencemarinaside",
+      "Hours": "Mon-Sun 9am-10pm"
+    },
+    "SEO": {
+      "metaTitle": "Provence Marinaside - Dog-Friendly French in Yaletown, Vancouver",
+      "metaDescription": "Discover Provence Marinaside, a dog-friendly french located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "yaletown",
+        "marinaside",
+        "provence",
+        "vancouver",
+        "french"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061211Z",
+      "lastVerified": "2025-04-21T18:09:53.061214Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "6 Acres",
+    "Address": "203 Carrall Street, Vancouver, BC",
+    "Neighbourhood": "Gastown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": false,
+    "SpaceRating": "Small",
+    "DogPolicyVerified": true,
+    "FoodType": "Gastropub",
+    "UserRating": 4.3,
+    "UserComments": "Cozy Gastown spot with great happy hour, dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls"
+    ],
+    "Photos": [
+      {
+        "url": "https://6acres.ca/patio.jpg",
+        "alt": "6 Acres - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Historic building, popular for happy hour",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2834,
+      "Longitude": -123.1033,
+      "GoogleMapsURL": "https://goo.gl/maps/6acres"
+    },
+    "Contact": {
+      "WebsiteURL": "https://6acres.ca",
+      "Instagram": "@sixacres",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "6 Acres - Dog-Friendly Gastropub in Gastown, Vancouver",
+      "metaDescription": "Discover 6 Acres, a dog-friendly gastropub located in Gastown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "6",
+        "acres",
+        "vancouver",
+        "gastown",
+        "gastropub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061232Z",
+      "lastVerified": "2025-04-21T18:09:53.061234Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Cider House",
+    "Address": "1602 Yew Street, Vancouver, BC",
+    "Neighbourhood": "Kitsilano",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Cider Bar & Vegan",
+    "UserRating": 4.5,
+    "UserComments": "100% vegan menu, heated patio perfect for dogs",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated outdoor area"
+    ],
+    "Photos": [
+      {
+        "url": "https://theciderhouse.ca/patio.jpg",
+        "alt": "The Cider House - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Close to Kits Beach, great for post-walk drinks",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2728,
+      "Longitude": -123.168,
+      "GoogleMapsURL": "https://goo.gl/maps/ciderhouse"
+    },
+    "Contact": {
+      "WebsiteURL": "https://theciderhouse.ca",
+      "Instagram": "@vancitycider",
+      "Hours": "Mon-Sun 12pm-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Cider House - Dog-Friendly Cider Bar & Vegan in Kitsilano, Vancouver",
+      "metaDescription": "Discover The Cider House, a dog-friendly cider bar & vegan located in Kitsilano, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "kitsilano",
+        "dog-friendly",
+        "cider",
+        "house",
+        "&",
+        "the",
+        "vegan",
+        "vancouver",
+        "bar"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061253Z",
+      "lastVerified": "2025-04-21T18:09:53.061255Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Kokomo",
+    "Address": "2028 Vine Street, Vancouver, BC",
+    "Neighbourhood": "Kitsilano",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": false,
+    "SpaceRating": "Small",
+    "DogPolicyVerified": true,
+    "FoodType": "Plant-based",
+    "UserRating": 4.6,
+    "UserComments": "Bright pink patio, fresh healthy bowls, very dog-friendly",
+    "PetAmenities": [
+      "Water bowls",
+      "Treats available"
+    ],
+    "Photos": [
+      {
+        "url": "https://heykokomo.ca/patio.jpg",
+        "alt": "Kokomo - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Instagram-worthy pink patio, great for healthy brunch",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.268,
+      "Longitude": -123.1557,
+      "GoogleMapsURL": "https://goo.gl/maps/kokomo"
+    },
+    "Contact": {
+      "WebsiteURL": "https://heykokomo.ca",
+      "Instagram": "@heykokomo",
+      "Hours": "Mon-Sun 9am-8pm"
+    },
+    "SEO": {
+      "metaTitle": "Kokomo - Dog-Friendly Plant-based in Kitsilano, Vancouver",
+      "metaDescription": "Discover Kokomo, a dog-friendly plant-based located in Kitsilano, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "kitsilano",
+        "dog-friendly",
+        "kokomo",
+        "plant-based",
+        "vancouver"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061272Z",
+      "lastVerified": "2025-04-21T18:09:53.061275Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Good Co. Bars",
+    "Address": "2904 Main Street, Vancouver, BC",
+    "Neighbourhood": "Mount Pleasant",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Bar & Grill",
+    "UserRating": 4.4,
+    "UserComments": "Spacious wooden patio, great for dogs and groups",
+    "PetAmenities": [
+      "Water bowls",
+      "Dog tie-up spots",
+      "Treats"
+    ],
+    "Photos": [
+      {
+        "url": "https://goodcobars.com/patio.jpg",
+        "alt": "Good Co. Bars - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Beautiful wooden patio, accommodating to dietary restrictions",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2589,
+      "Longitude": -123.101,
+      "GoogleMapsURL": "https://goo.gl/maps/goodco"
+    },
+    "Contact": {
+      "WebsiteURL": "https://goodcobars.com",
+      "Instagram": "@goodcobars",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Good Co. Bars - Dog-Friendly Bar & Grill in Mount Pleasant, Vancouver",
+      "metaDescription": "Discover Good Co. Bars, a dog-friendly bar & grill located in Mount Pleasant, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "pleasant",
+        "dog-friendly",
+        "mount",
+        "good",
+        "co.",
+        "&",
+        "vancouver",
+        "grill",
+        "bars",
+        "bar"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061292Z",
+      "lastVerified": "2025-04-21T18:09:53.061295Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Score on Davie",
+    "Address": "1262 Davie Street, Vancouver, BC",
+    "Neighbourhood": "West End",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.3,
+    "UserComments": "Lively atmosphere, great for dogs during day/early evening",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded areas"
+    ],
+    "Photos": [
+      {
+        "url": "https://scoreondavie.com/patio.jpg",
+        "alt": "Score on Davie - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Popular brunch spot, gets busy on weekends",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2824,
+      "Longitude": -123.1332,
+      "GoogleMapsURL": "https://goo.gl/maps/score"
+    },
+    "Contact": {
+      "WebsiteURL": "https://scoreondavie.com",
+      "Instagram": "@scoreondavie",
+      "Hours": "Mon-Sun 11am-2am"
+    },
+    "SEO": {
+      "metaTitle": "Score on Davie - Dog-Friendly Pub in West End, Vancouver",
+      "metaDescription": "Discover Score on Davie, a dog-friendly pub located in West End, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "west",
+        "dog-friendly",
+        "end",
+        "score",
+        "davie",
+        "vancouver",
+        "on",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061314Z",
+      "lastVerified": "2025-04-21T18:09:53.061316Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Stanley Park Brewing",
+    "Address": "8901 Stanley Park Drive, Vancouver, BC",
+    "Neighbourhood": "Stanley Park",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.4,
+    "UserComments": "Perfect after park walks, scenic patio with lots of space",
+    "PetAmenities": [
+      "Water bowls",
+      "Treats",
+      "Park access"
+    ],
+    "Photos": [
+      {
+        "url": "https://stanleyparkbrewing.com/patio.jpg",
+        "alt": "Stanley Park Brewing - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Great location for post-walk refreshments in Stanley Park",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2932,
+      "Longitude": -123.1442,
+      "GoogleMapsURL": "https://goo.gl/maps/stanleypark"
+    },
+    "Contact": {
+      "WebsiteURL": "https://stanleyparkbrewing.com",
+      "Instagram": "@stanleyparkbrew",
+      "Hours": "Mon-Sun 11am-11pm"
+    },
+    "SEO": {
+      "metaTitle": "Stanley Park Brewing - Dog-Friendly Brewery in Stanley Park, Vancouver",
+      "metaDescription": "Discover Stanley Park Brewing, a dog-friendly brewery located in Stanley Park, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "park",
+        "stanley",
+        "brewing",
+        "vancouver",
+        "brewery"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061345Z",
+      "lastVerified": "2025-04-21T18:09:53.061348Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Chewies Smoke & Oyster Bar",
+    "Address": "2201 W 1st Avenue, Vancouver, BC",
+    "Neighbourhood": "Kitsilano",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Seafood",
+    "UserRating": 4.4,
+    "UserComments": "Great seafood spot with covered dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Covered seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://chewies.ca/patio.jpg",
+        "alt": "Chewies Smoke & Oyster Bar - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Known for oysters and Southern comfort food",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2708,
+      "Longitude": -123.1557,
+      "GoogleMapsURL": "https://goo.gl/maps/chewies"
+    },
+    "Contact": {
+      "WebsiteURL": "https://chewies.ca",
+      "Instagram": "@chewieskits",
+      "Hours": "Mon-Sun 11:30am-10pm"
+    },
+    "SEO": {
+      "metaTitle": "Chewies Smoke & Oyster Bar - Dog-Friendly Seafood in Kitsilano, Vancouver",
+      "metaDescription": "Discover Chewies Smoke & Oyster Bar, a dog-friendly seafood located in Kitsilano, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "kitsilano",
+        "dog-friendly",
+        "smoke",
+        "&",
+        "vancouver",
+        "seafood",
+        "oyster",
+        "bar",
+        "chewies"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061364Z",
+      "lastVerified": "2025-04-21T18:09:53.061366Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Painted Ship",
+    "Address": "2884 W Broadway, Vancouver, BC",
+    "Neighbourhood": "Kitsilano",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": false,
+    "SpaceRating": "Small",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.2,
+    "UserComments": "Cozy neighborhood pub with dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls"
+    ],
+    "Photos": [
+      {
+        "url": "https://thepaintedship.com/patio.jpg",
+        "alt": "The Painted Ship - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Local favorite with good beer selection",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.264,
+      "Longitude": -123.1697,
+      "GoogleMapsURL": "https://goo.gl/maps/paintedship"
+    },
+    "Contact": {
+      "WebsiteURL": "https://thepaintedship.com",
+      "Instagram": "@thepaintedship",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Painted Ship - Dog-Friendly Pub in Kitsilano, Vancouver",
+      "metaDescription": "Discover The Painted Ship, a dog-friendly pub located in Kitsilano, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "ship",
+        "kitsilano",
+        "dog-friendly",
+        "the",
+        "vancouver",
+        "painted",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061379Z",
+      "lastVerified": "2025-04-21T18:09:53.061381Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Dovetail",
+    "Address": "1079 Mainland Street, Vancouver, BC",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Contemporary",
+    "UserRating": 4.5,
+    "UserComments": "Stylish Yaletown spot with heated dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://dovetailvancouver.com/patio.jpg",
+        "alt": "Dovetail - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Popular for weekend brunch",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2754,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/dovetail"
+    },
+    "Contact": {
+      "WebsiteURL": "https://dovetailvancouver.com",
+      "Instagram": "@dovetailvancouver",
+      "Hours": "Mon-Sun 11am-11pm"
+    },
+    "SEO": {
+      "metaTitle": "Dovetail - Dog-Friendly Contemporary in Yaletown, Vancouver",
+      "metaDescription": "Discover Dovetail, a dog-friendly contemporary located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "contemporary",
+        "dog-friendly",
+        "yaletown",
+        "dovetail",
+        "vancouver"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061394Z",
+      "lastVerified": "2025-04-21T18:09:53.061396Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Parlour Yaletown",
+    "Address": "1011 Hamilton Street, Vancouver, BC",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Pizza & Bar",
+    "UserRating": 4.3,
+    "UserComments": "Great pizza and cocktails, dog-friendly heated patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating",
+      "Treats available"
+    ],
+    "Photos": [
+      {
+        "url": "https://theparlourrestaurants.com/patio.jpg",
+        "alt": "The Parlour Yaletown - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Known for creative pizzas and lively atmosphere",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2757,
+      "Longitude": -123.1219,
+      "GoogleMapsURL": "https://goo.gl/maps/parlour"
+    },
+    "Contact": {
+      "WebsiteURL": "https://theparlourrestaurants.com",
+      "Instagram": "@theparlourrestaurants",
+      "Hours": "Mon-Sun 11:30am-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Parlour Yaletown - Dog-Friendly Pizza & Bar in Yaletown, Vancouver",
+      "metaDescription": "Discover The Parlour Yaletown, a dog-friendly pizza & bar located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "pizza",
+        "yaletown",
+        "&",
+        "the",
+        "vancouver",
+        "bar",
+        "parlour"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061408Z",
+      "lastVerified": "2025-04-21T18:09:53.061410Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "33 Acres Brewing",
+    "Address": "15 West 8th Avenue, Vancouver, BC",
+    "Neighbourhood": "Mount Pleasant",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.6,
+    "UserComments": "Stylish brewery with excellent beer and dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Covered seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://33acresbrewing.com/patio.jpg",
+        "alt": "33 Acres Brewing - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Popular craft brewery with seasonal menu",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2638,
+      "Longitude": -123.1066,
+      "GoogleMapsURL": "https://goo.gl/maps/33acres"
+    },
+    "Contact": {
+      "WebsiteURL": "https://33acresbrewing.com",
+      "Instagram": "@33acresbrewing",
+      "Hours": "Mon-Sun 12pm-11pm"
+    },
+    "SEO": {
+      "metaTitle": "33 Acres Brewing - Dog-Friendly Brewery in Mount Pleasant, Vancouver",
+      "metaDescription": "Discover 33 Acres Brewing, a dog-friendly brewery located in Mount Pleasant, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "pleasant",
+        "dog-friendly",
+        "mount",
+        "brewing",
+        "acres",
+        "vancouver",
+        "brewery",
+        "33"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061423Z",
+      "lastVerified": "2025-04-21T18:09:53.061425Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Red Truck Beer Company",
+    "Address": "295 E 1st Avenue, Vancouver, BC",
+    "Neighbourhood": "Mount Pleasant",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.4,
+    "UserComments": "Large open patio, dog treats available, adjacent to park",
+    "PetAmenities": [
+      "Water bowls",
+      "Treats",
+      "Park access"
+    ],
+    "Photos": [
+      {
+        "url": "https://redtruckbeer.com/patio.jpg",
+        "alt": "Red Truck Beer Company - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Spacious patio, great for groups and dogs",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2762,
+      "Longitude": -123.0987,
+      "GoogleMapsURL": "https://goo.gl/maps/redtruck"
+    },
+    "Contact": {
+      "WebsiteURL": "https://redtruckbeer.com",
+      "Instagram": "@redtruckbeer",
+      "Hours": "Mon-Sun 12pm-11pm"
+    },
+    "SEO": {
+      "metaTitle": "Red Truck Beer Company - Dog-Friendly Brewery in Mount Pleasant, Vancouver",
+      "metaDescription": "Discover Red Truck Beer Company, a dog-friendly brewery located in Mount Pleasant, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "pleasant",
+        "dog-friendly",
+        "mount",
+        "truck",
+        "beer",
+        "company",
+        "vancouver",
+        "brewery",
+        "red"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061438Z",
+      "lastVerified": "2025-04-21T18:09:53.061440Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Relish the Pub",
+    "Address": "888 Nelson Street, Vancouver, BC",
+    "Neighbourhood": "Downtown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Gastropub",
+    "UserRating": 4.3,
+    "UserComments": "Central location, covered and heated patio, dog-friendly",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://relishgastropub.ca/patio.jpg",
+        "alt": "Relish the Pub - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Classic pub fare, good beer selection",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2819,
+      "Longitude": -123.1224,
+      "GoogleMapsURL": "https://goo.gl/maps/relish"
+    },
+    "Contact": {
+      "WebsiteURL": "https://relishgastropub.ca",
+      "Instagram": "@relishthepub",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Relish the Pub - Dog-Friendly Gastropub in Downtown, Vancouver",
+      "metaDescription": "Discover Relish the Pub, a dog-friendly gastropub located in Downtown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "relish",
+        "downtown",
+        "the",
+        "vancouver",
+        "pub",
+        "gastropub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061454Z",
+      "lastVerified": "2025-04-21T18:09:53.061456Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Wicklow Pub",
+    "Address": "610 Stamps Landing, Vancouver, BC",
+    "Neighbourhood": "False Creek",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.3,
+    "UserComments": "Great marina views, dog-friendly staff bring water bowls",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded areas"
+    ],
+    "Photos": [
+      {
+        "url": "https://thewicklow.com/patio.jpg",
+        "alt": "The Wicklow Pub - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Marina views, umbrellas, shaded",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2669,
+      "Longitude": -123.1179,
+      "GoogleMapsURL": "https://goo.gl/maps/wicklow"
+    },
+    "Contact": {
+      "WebsiteURL": "https://thewicklow.com",
+      "Instagram": "@wicklowpub",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Wicklow Pub - Dog-Friendly Pub in False Creek, Vancouver",
+      "metaDescription": "Discover The Wicklow Pub, a dog-friendly pub located in False Creek, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "the",
+        "false",
+        "vancouver",
+        "creek",
+        "wicklow",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061468Z",
+      "lastVerified": "2025-04-21T18:09:53.061471Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Mahony's Tavern - False Creek",
+    "Address": "601 Stamps Landing, Vancouver, BC",
+    "Neighbourhood": "False Creek",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.2,
+    "UserComments": "Beautiful waterfront views, designated dog-friendly area",
+    "PetAmenities": [
+      "Water bowls",
+      "Designated dog area",
+      "Shaded spots"
+    ],
+    "Photos": [
+      {
+        "url": "https://mahonystavern.com/patio.jpg",
+        "alt": "Mahony's Tavern - False Creek - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Waterfront, shaded, first-come basis",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2668,
+      "Longitude": -123.1178,
+      "GoogleMapsURL": "https://goo.gl/maps/mahonys"
+    },
+    "Contact": {
+      "WebsiteURL": "https://mahonystavern.com",
+      "Instagram": "@mahonystavern",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "Mahony's Tavern - False Creek - Dog-Friendly Pub in False Creek, Vancouver",
+      "metaDescription": "Discover Mahony's Tavern - False Creek, a dog-friendly pub located in False Creek, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "creek",
+        "mahony's",
+        "false",
+        "vancouver",
+        "-",
+        "pub",
+        "tavern"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061483Z",
+      "lastVerified": "2025-04-21T18:09:53.061485Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Stanley Park Brewing Restaurant & Brewpub",
+    "Address": "8901 Stanley Park Drive, Vancouver, BC",
+    "Neighbourhood": "Stanley Park",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.4,
+    "UserComments": "Perfect after park walks, scenic patio with lots of space",
+    "PetAmenities": [
+      "Water bowls",
+      "Treats",
+      "Park access"
+    ],
+    "Photos": [
+      {
+        "url": "https://stanleyparkbrewing.com/patio.jpg",
+        "alt": "Stanley Park Brewing Restaurant & Brewpub - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Parkside, scenic, craft beer",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2932,
+      "Longitude": -123.1442,
+      "GoogleMapsURL": "https://goo.gl/maps/stanleypark"
+    },
+    "Contact": {
+      "WebsiteURL": "https://stanleyparkbrewing.com",
+      "Instagram": "@stanleyparkbrew",
+      "Hours": "Mon-Sun 11am-11pm"
+    },
+    "SEO": {
+      "metaTitle": "Stanley Park Brewing Restaurant & Brewpub - Dog-Friendly Brewery in Stanley Park, Vancouver",
+      "metaDescription": "Discover Stanley Park Brewing Restaurant & Brewpub, a dog-friendly brewery located in Stanley Park, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "park",
+        "stanley",
+        "restaurant",
+        "brewpub",
+        "brewing",
+        "&",
+        "vancouver",
+        "brewery"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061498Z",
+      "lastVerified": "2025-04-21T18:09:53.061500Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Tap & Barrel - Olympic Village",
+    "Address": "75 Athletes Way, Vancouver, BC V5Y 0B1",
+    "Neighbourhood": "Olympic Village",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Gastropub",
+    "UserRating": 4.4,
+    "UserComments": "Waterfront, large patio, gets busy",
+    "PetAmenities": [
+      "Water bowls"
+    ],
+    "Photos": [
+      {
+        "url": "https://tapandbarrel.com/olympic-village/patio.jpg",
+        "alt": "Tap & Barrel - Olympic Village - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Waterfront, large patio, gets busy",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2706,
+      "Longitude": -123.1121,
+      "GoogleMapsURL": "https://goo.gl/maps/tapandbarrel"
+    },
+    "Contact": {
+      "WebsiteURL": "https://tapandbarrel.com/olympic-village/",
+      "Instagram": "@tapandbarrel",
+      "Hours": "Mon-Sun 11am-11pm"
+    },
+    "SEO": {
+      "metaTitle": "Tap & Barrel - Olympic Village - Dog-Friendly Gastropub in Olympic Village, Vancouver",
+      "metaDescription": "Discover Tap & Barrel - Olympic Village, a dog-friendly gastropub located in Olympic Village, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "village",
+        "olympic",
+        "&",
+        "barrel",
+        "tap",
+        "vancouver",
+        "-",
+        "gastropub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061629Z",
+      "lastVerified": "2025-04-21T18:09:53.061634Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Flying Pig Olympic Village",
+    "Address": "127 W 2nd Ave, Vancouver, BC V5Y 0E2",
+    "Neighbourhood": "Olympic Village",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Gastropub",
+    "UserRating": 4.3,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://theflyingpigvan.com/patio.jpg",
+        "alt": "The Flying Pig Olympic Village - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2722,
+      "Longitude": -123.1089,
+      "GoogleMapsURL": "https://goo.gl/maps/flyingpig"
+    },
+    "Contact": {
+      "WebsiteURL": "https://theflyingpigvan.com",
+      "Instagram": "@flyingpigvan",
+      "Hours": "Mon-Sun 11:30am-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Flying Pig Olympic Village - Dog-Friendly Gastropub in Olympic Village, Vancouver",
+      "metaDescription": "Discover The Flying Pig Olympic Village, a dog-friendly gastropub located in Olympic Village, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "pig",
+        "village",
+        "olympic",
+        "the",
+        "flying",
+        "vancouver",
+        "gastropub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061650Z",
+      "lastVerified": "2025-04-21T18:09:53.061653Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Cactus Club Cafe - English Bay",
+    "Address": "1790 Beach Ave, Vancouver, BC V6G 1Y3",
+    "Neighbourhood": "West End",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Casual Dining",
+    "UserRating": 4.2,
+    "UserComments": "Waterfront views, dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://cactusclubcafe.com/englishbay/patio.jpg",
+        "alt": "Cactus Club Cafe - English Bay - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Waterfront views, gets busy",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2862,
+      "Longitude": -123.1404,
+      "GoogleMapsURL": "https://goo.gl/maps/cactusclub"
+    },
+    "Contact": {
+      "WebsiteURL": "https://cactusclubcafe.com",
+      "Instagram": "@cactusclubcafe",
+      "Hours": "Mon-Sun 11am-12am"
+    },
+    "SEO": {
+      "metaTitle": "Cactus Club Cafe - English Bay - Dog-Friendly Casual Dining in West End, Vancouver",
+      "metaDescription": "Discover Cactus Club Cafe - English Bay, a dog-friendly casual dining located in West End, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "english",
+        "cactus",
+        "west",
+        "end",
+        "dog-friendly",
+        "casual",
+        "cafe",
+        "bay",
+        "vancouver",
+        "club",
+        "-",
+        "dining"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061668Z",
+      "lastVerified": "2025-04-21T18:09:53.061670Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Local Public Eatery - Kitsilano",
+    "Address": "2210 Cornwall Ave, Vancouver, BC V6K 1C7",
+    "Neighbourhood": "Kitsilano",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.1,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://localpubliceatery.com/kitsilano/patio.jpg",
+        "alt": "Local Public Eatery - Kitsilano - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2744,
+      "Longitude": -123.1489,
+      "GoogleMapsURL": "https://goo.gl/maps/localpub"
+    },
+    "Contact": {
+      "WebsiteURL": "https://localpubliceatery.com",
+      "Instagram": "@localpubliceatery",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Local Public Eatery - Kitsilano - Dog-Friendly Pub in Kitsilano, Vancouver",
+      "metaDescription": "Discover Local Public Eatery - Kitsilano, a dog-friendly pub located in Kitsilano, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "kitsilano",
+        "dog-friendly",
+        "local",
+        "public",
+        "vancouver",
+        "-",
+        "pub",
+        "eatery"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061684Z",
+      "lastVerified": "2025-04-21T18:09:53.061687Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Beach House Restaurant",
+    "Address": "150 25th Street, West Vancouver, BC V7V 4H8",
+    "Neighbourhood": "West Vancouver",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Seafood",
+    "UserRating": 4.3,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://thebeachhouserestaurant.ca/patio.jpg",
+        "alt": "The Beach House Restaurant - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Waterfront views, gets busy",
+    "Sources": [],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.3389,
+      "Longitude": -123.1417,
+      "GoogleMapsURL": "https://goo.gl/maps/beachhouse"
+    },
+    "Contact": {
+      "WebsiteURL": "https://thebeachhouserestaurant.ca",
+      "Instagram": "@thebeachhousewv",
+      "Hours": "Mon-Sun 11:30am-10pm"
+    },
+    "SEO": {
+      "metaTitle": "The Beach House Restaurant - Dog-Friendly Seafood in West Vancouver, Vancouver",
+      "metaDescription": "Discover The Beach House Restaurant, a dog-friendly seafood located in West Vancouver, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "west",
+        "dog-friendly",
+        "house",
+        "restaurant",
+        "beach",
+        "the",
+        "vancouver",
+        "seafood"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061699Z",
+      "lastVerified": "2025-04-21T18:09:53.061701Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Roof at Black + Blue",
+    "Address": "1032 Alberni Street, Vancouver, BC V6E 1A3",
+    "Neighbourhood": "Downtown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Steakhouse",
+    "UserRating": 4.4,
+    "UserComments": "Upscale steakhouse with a dog-friendly rooftop patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.glowbalgroup.com/black-blue/patio.jpg",
+        "alt": "The Roof at Black + Blue - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Rooftop patio, upscale dining",
+    "Sources": [
+      "https://www.glowbalgroup.com/black-blue/",
+      "https://www.yelp.ca/biz/black-blue-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2842,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/blackandblue"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.glowbalgroup.com/black-blue/",
+      "Instagram": "@blackandbluevan",
+      "Hours": "Mon-Sun 4pm-12am"
+    },
+    "SEO": {
+      "metaTitle": "The Roof at Black + Blue - Dog-Friendly Steakhouse in Downtown, Vancouver",
+      "metaDescription": "Discover The Roof at Black + Blue, a dog-friendly steakhouse located in Downtown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "+",
+        "black",
+        "at",
+        "steakhouse",
+        "downtown",
+        "roof",
+        "the",
+        "blue",
+        "vancouver"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061714Z",
+      "lastVerified": "2025-04-21T18:09:53.061716Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Butcher & Bullock",
+    "Address": "911 West Pender Street, Vancouver, BC V6C 0G9",
+    "Neighbourhood": "Downtown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.2,
+    "UserComments": "Gastown pub with a dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.butcherandbullock.com/patio.jpg",
+        "alt": "The Butcher & Bullock - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Gastown pub, good beer selection",
+    "Sources": [
+      "https://www.butcherandbullock.com/",
+      "https://www.yelp.ca/biz/the-butcher-and-bullock-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2862,
+      "Longitude": -123.1164,
+      "GoogleMapsURL": "https://goo.gl/maps/butcherandbullock"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.butcherandbullock.com",
+      "Instagram": "@butcher_bullock",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "The Butcher & Bullock - Dog-Friendly Pub in Downtown, Vancouver",
+      "metaDescription": "Discover The Butcher & Bullock, a dog-friendly pub located in Downtown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "bullock",
+        "dog-friendly",
+        "butcher",
+        "downtown",
+        "&",
+        "the",
+        "vancouver",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061728Z",
+      "lastVerified": "2025-04-21T18:09:53.061730Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Steamworks Brew Pub",
+    "Address": "375 Water Street, Vancouver, BC V6B 5C6",
+    "Neighbourhood": "Gastown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brew Pub",
+    "UserRating": 4.1,
+    "UserComments": "Gastown brew pub with a dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.steamworks.com/patio.jpg",
+        "alt": "Steamworks Brew Pub - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Gastown brew pub, good beer selection",
+    "Sources": [
+      "https://www.steamworks.com/",
+      "https://www.yelp.ca/biz/steamworks-brew-pub-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2844,
+      "Longitude": -123.1056,
+      "GoogleMapsURL": "https://goo.gl/maps/steamworks"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.steamworks.com",
+      "Instagram": "@steamworks",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Steamworks Brew Pub - Dog-Friendly Brew Pub in Gastown, Vancouver",
+      "metaDescription": "Discover Steamworks Brew Pub, a dog-friendly brew pub located in Gastown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "vancouver",
+        "steamworks",
+        "brew",
+        "pub",
+        "gastown"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061743Z",
+      "lastVerified": "2025-04-21T18:09:53.061745Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Lamplighter Public House",
+    "Address": "92 Water Street, Vancouver, BC V6B 1B6",
+    "Neighbourhood": "Gastown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.0,
+    "UserComments": "Gastown pub with a dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://donnellygroup.ca/the-lamplighter/patio.jpg",
+        "alt": "The Lamplighter Public House - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Gastown pub, good beer selection",
+    "Sources": [
+      "https://donnellygroup.ca/the-lamplighter/",
+      "https://www.yelp.ca/biz/the-lamplighter-public-house-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2844,
+      "Longitude": -123.1044,
+      "GoogleMapsURL": "https://goo.gl/maps/lamplighter"
+    },
+    "Contact": {
+      "WebsiteURL": "https://donnellygroup.ca/the-lamplighter/",
+      "Instagram": "@lamplighter_pub",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "The Lamplighter Public House - Dog-Friendly Pub in Gastown, Vancouver",
+      "metaDescription": "Discover The Lamplighter Public House, a dog-friendly pub located in Gastown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "lamplighter",
+        "dog-friendly",
+        "house",
+        "the",
+        "public",
+        "vancouver",
+        "pub",
+        "gastown"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061758Z",
+      "lastVerified": "2025-04-21T18:09:53.061761Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Irish Heather",
+    "Address": "210 Carrall Street, Vancouver, BC V6B 2J1",
+    "Neighbourhood": "Gastown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Irish Pub",
+    "UserRating": 4.3,
+    "UserComments": "Gastown Irish pub with a dog-friendly patio",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://theirishheather.com/patio.jpg",
+        "alt": "The Irish Heather - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Gastown Irish pub, good beer selection",
+    "Sources": [
+      "https://theirishheather.com/",
+      "https://www.yelp.ca/biz/the-irish-heather-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2834,
+      "Longitude": -123.1033,
+      "GoogleMapsURL": "https://goo.gl/maps/irishheather"
+    },
+    "Contact": {
+      "WebsiteURL": "https://theirishheather.com",
+      "Instagram": "@theirishheather",
+      "Hours": "Mon-Sun 11am-1am"
+    },
+    "SEO": {
+      "metaTitle": "The Irish Heather - Dog-Friendly Irish Pub in Gastown, Vancouver",
+      "metaDescription": "Discover The Irish Heather, a dog-friendly irish pub located in Gastown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "heather",
+        "the",
+        "vancouver",
+        "irish",
+        "pub",
+        "gastown"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061774Z",
+      "lastVerified": "2025-04-21T18:09:53.061776Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Yaletown Brewing Company",
+    "Address": "111 Mainland Street, Vancouver, BC V6B 5P2",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Brewery",
+    "UserRating": 4.3,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.yaletownbrew.com/patio.jpg",
+        "alt": "Yaletown Brewing Company - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [
+      "https://www.yaletownbrew.com/",
+      "https://www.yelp.ca/biz/yaletown-brewing-company-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2754,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/yaletownbrewing"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.yaletownbrew.com",
+      "Instagram": "@yaletownbrewing",
+      "Hours": "Mon-Sun 11:30am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Yaletown Brewing Company - Dog-Friendly Brewery in Yaletown, Vancouver",
+      "metaDescription": "Discover Yaletown Brewing Company, a dog-friendly brewery located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "yaletown",
+        "brewing",
+        "company",
+        "vancouver",
+        "brewery"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061788Z",
+      "lastVerified": "2025-04-21T18:09:53.061791Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The New Oxford",
+    "Address": "1144 Homer Street, Vancouver, BC V6B 2X8",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Pub",
+    "UserRating": 4.2,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.thenewoxford.ca/patio.jpg",
+        "alt": "The New Oxford - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [
+      "https://www.thenewoxford.ca/",
+      "https://www.yelp.ca/biz/the-new-oxford-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2754,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/newoxford"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.thenewoxford.ca",
+      "Instagram": "@thenewoxford",
+      "Hours": "Mon-Sun 11:30am-1am"
+    },
+    "SEO": {
+      "metaTitle": "The New Oxford - Dog-Friendly Pub in Yaletown, Vancouver",
+      "metaDescription": "Discover The New Oxford, a dog-friendly pub located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "yaletown",
+        "the",
+        "oxford",
+        "vancouver",
+        "new",
+        "pub"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061803Z",
+      "lastVerified": "2025-04-21T18:09:53.061805Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Brix & Mortar",
+    "Address": "1138 Homer Street, Vancouver, BC V6B 2X6",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": true,
+    "FoodType": "Restaurant",
+    "UserRating": 4.4,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.brixandmortar.ca/patio.jpg",
+        "alt": "Brix & Mortar - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [
+      "https://www.brixandmortar.ca/",
+      "https://www.yelp.ca/biz/brix-and-mortar-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2754,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/brixandmortar"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.brixandmortar.ca",
+      "Instagram": "@brixandmortar",
+      "Hours": "Mon-Sun 11:30am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Brix & Mortar - Dog-Friendly Restaurant in Yaletown, Vancouver",
+      "metaDescription": "Discover Brix & Mortar, a dog-friendly restaurant located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "restaurant",
+        "yaletown",
+        "&",
+        "vancouver",
+        "mortar",
+        "brix"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061817Z",
+      "lastVerified": "2025-04-21T18:09:53.061819Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "The Keg Steakhouse + Bar - Yaletown",
+    "Address": "1011 Mainland Street, Vancouver, BC V6B 5P9",
+    "Neighbourhood": "Yaletown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Steakhouse",
+    "UserRating": 4.3,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.kegsteakhouse.com/patio.jpg",
+        "alt": "The Keg Steakhouse + Bar - Yaletown - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [
+      "https://www.kegsteakhouse.com/",
+      "https://www.yelp.ca/biz/the-keg-steakhouse-bar-vancouver-yaletown"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2754,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/kegyaletown"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.kegsteakhouse.com",
+      "Instagram": "@kegsteakhouse",
+      "Hours": "Mon-Sun 4pm-1am"
+    },
+    "SEO": {
+      "metaTitle": "The Keg Steakhouse + Bar - Yaletown - Dog-Friendly Steakhouse in Yaletown, Vancouver",
+      "metaDescription": "Discover The Keg Steakhouse + Bar - Yaletown, a dog-friendly steakhouse located in Yaletown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "+",
+        "yaletown",
+        "steakhouse",
+        "keg",
+        "the",
+        "vancouver",
+        "-",
+        "bar"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061831Z",
+      "lastVerified": "2025-04-21T18:09:53.061833Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Glowbal",
+    "Address": "590 West Georgia Street, Vancouver, BC V6B 4A2",
+    "Neighbourhood": "Downtown",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Large",
+    "DogPolicyVerified": true,
+    "FoodType": "Restaurant",
+    "UserRating": 4.4,
+    "UserComments": "Dog-friendly patio with heaters",
+    "PetAmenities": [
+      "Water bowls",
+      "Heated seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://www.glowbalgroup.com/glowbal/patio.jpg",
+        "alt": "Glowbal - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Heated patio, good for groups",
+    "Sources": [
+      "https://www.glowbalgroup.com/glowbal/",
+      "https://www.yelp.ca/biz/glowbal-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2842,
+      "Longitude": -123.1207,
+      "GoogleMapsURL": "https://goo.gl/maps/glowbal"
+    },
+    "Contact": {
+      "WebsiteURL": "https://www.glowbalgroup.com/glowbal/",
+      "Instagram": "@glowbal_vancouver",
+      "Hours": "Mon-Sun 11:30am-1am"
+    },
+    "SEO": {
+      "metaTitle": "Glowbal - Dog-Friendly Restaurant in Downtown, Vancouver",
+      "metaDescription": "Discover Glowbal, a dog-friendly restaurant located in Downtown, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "restaurant",
+        "downtown",
+        "vancouver",
+        "glowbal"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061845Z",
+      "lastVerified": "2025-04-21T18:09:53.061847Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "BierCraft Tap and Tapas",
+    "Address": "1191 Commercial Dr, Vancouver, BC V5L 3X3",
+    "Neighbourhood": "Commercial Drive",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": false,
+    "FoodType": "Belgian/European",
+    "UserRating": 4.2,
+    "UserComments": "Great beer selection, dog-friendly patio, friendly staff.",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://biercraft.com/wp-content/uploads/2021/05/Commercial-Drive-Patio.jpg",
+        "alt": "BierCraft Tap and Tapas - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Popular with locals, good for groups.",
+    "Sources": [
+      "https://biercraft.com/locations/commercial-drive/",
+      "https://dailyhive.com/vancouver/dog-friendly-patios-in-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2761,
+      "Longitude": -123.0692,
+      "GoogleMapsURL": "https://goo.gl/maps/6Qw8Qw8Qw8Qw8Qw8A"
+    },
+    "Contact": {
+      "WebsiteURL": "https://biercraft.com/locations/commercial-drive/",
+      "Instagram": "@biercraft",
+      "Hours": "Mon\u2013Sun 11am\u2013late"
+    },
+    "SEO": {
+      "metaTitle": "BierCraft Tap and Tapas - Dog-Friendly Belgian/European in Commercial Drive, Vancouver",
+      "metaDescription": "Discover BierCraft Tap and Tapas, a dog-friendly belgian/european located in Commercial Drive, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "and",
+        "drive",
+        "tap",
+        "vancouver",
+        "commercial",
+        "belgian/european",
+        "biercraft",
+        "tapas"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061860Z",
+      "lastVerified": "2025-04-21T18:09:53.061862Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Havana Vancouver",
+    "Address": "1212 Commercial Dr, Vancouver, BC V5L 3X4",
+    "Neighbourhood": "Commercial Drive",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": false,
+    "FoodType": "Cuban/Latin",
+    "UserRating": 4.3,
+    "UserComments": "Colorful patio, dog-friendly, great for brunch.",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://havanavancouver.com/wp-content/uploads/2021/05/patio.jpg",
+        "alt": "Havana Vancouver - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Vibrant atmosphere, live music some nights.",
+    "Sources": [
+      "https://havanavancouver.com/",
+      "https://dailyhive.com/vancouver/dog-friendly-patios-in-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2762,
+      "Longitude": -123.0695,
+      "GoogleMapsURL": "https://goo.gl/maps/2Qw8Qw8Qw8Qw8Qw8A"
+    },
+    "Contact": {
+      "WebsiteURL": "https://havanavancouver.com/",
+      "Instagram": "@havanavancouver",
+      "Hours": "Mon\u2013Sun 11am\u2013late"
+    },
+    "SEO": {
+      "metaTitle": "Havana Vancouver - Dog-Friendly Cuban/Latin in Commercial Drive, Vancouver",
+      "metaDescription": "Discover Havana Vancouver, a dog-friendly cuban/latin located in Commercial Drive, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "havana",
+        "dog-friendly",
+        "drive",
+        "cuban/latin",
+        "vancouver",
+        "commercial"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061877Z",
+      "lastVerified": "2025-04-21T18:09:53.061879Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Heirloom Vegetarian",
+    "Address": "1509 W 12th Ave, Vancouver, BC V6J 2E2",
+    "Neighbourhood": "South Granville",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": false,
+    "SpaceRating": "Small",
+    "DogPolicyVerified": false,
+    "FoodType": "Vegetarian",
+    "UserRating": 4.4,
+    "UserComments": "Cozy patio, healthy menu, dog-friendly.",
+    "PetAmenities": [
+      "Water bowls"
+    ],
+    "Photos": [
+      {
+        "url": "https://heirloomrestaurant.ca/wp-content/uploads/2021/05/patio.jpg",
+        "alt": "Heirloom Vegetarian - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Great for brunch, limited patio seating.",
+    "Sources": [
+      "https://heirloomrestaurant.ca/",
+      "https://dailyhive.com/vancouver/dog-friendly-patios-in-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2602,
+      "Longitude": -123.1387,
+      "GoogleMapsURL": "https://goo.gl/maps/3Qw8Qw8Qw8Qw8Qw8A"
+    },
+    "Contact": {
+      "WebsiteURL": "https://heirloomrestaurant.ca/",
+      "Instagram": "@heirloomveg",
+      "Hours": "Mon\u2013Sun 9am\u20139pm"
+    },
+    "SEO": {
+      "metaTitle": "Heirloom Vegetarian - Dog-Friendly Vegetarian in South Granville, Vancouver",
+      "metaDescription": "Discover Heirloom Vegetarian, a dog-friendly vegetarian located in South Granville, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "dog-friendly",
+        "vegetarian",
+        "granville",
+        "vancouver",
+        "south",
+        "heirloom"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061890Z",
+      "lastVerified": "2025-04-21T18:09:53.061892Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Bufala Kerrisdale",
+    "Address": "5395 West Blvd, Vancouver, BC V6M 3W4",
+    "Neighbourhood": "Kerrisdale",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": false,
+    "HeatedPatio": false,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": false,
+    "FoodType": "Pizza/Italian",
+    "UserRating": 4.5,
+    "UserComments": "Dog-friendly patio, great pizza, friendly staff.",
+    "PetAmenities": [
+      "Water bowls"
+    ],
+    "Photos": [
+      {
+        "url": "https://bufala.ca/wp-content/uploads/2021/05/patio.jpg",
+        "alt": "Bufala Kerrisdale - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Popular with families, casual vibe.",
+    "Sources": [
+      "https://bufala.ca/",
+      "https://dailyhive.com/vancouver/dog-friendly-patios-in-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2341,
+      "Longitude": -123.1552,
+      "GoogleMapsURL": "https://goo.gl/maps/4Qw8Qw8Qw8Qw8Qw8A"
+    },
+    "Contact": {
+      "WebsiteURL": "https://bufala.ca/",
+      "Instagram": "@bufalakerrisdale",
+      "Hours": "Mon\u2013Sun 11:30am\u201310pm"
+    },
+    "SEO": {
+      "metaTitle": "Bufala Kerrisdale - Dog-Friendly Pizza/Italian in Kerrisdale, Vancouver",
+      "metaDescription": "Discover Bufala Kerrisdale, a dog-friendly pizza/italian located in Kerrisdale, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "bufala",
+        "dog-friendly",
+        "pizza/italian",
+        "kerrisdale",
+        "vancouver"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061903Z",
+      "lastVerified": "2025-04-21T18:09:53.061905Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  },
+  {
+    "Name": "Biercraft Wesbrook",
+    "Address": "3340 Shrum Lane, Vancouver, BC V6S 0B9",
+    "Neighbourhood": "UBC/Wesbrook Village",
+    "City": "Vancouver",
+    "WaterBowl": true,
+    "CoveredPatio": true,
+    "HeatedPatio": true,
+    "SpaceRating": "Medium",
+    "DogPolicyVerified": false,
+    "FoodType": "Belgian/European",
+    "UserRating": 4.3,
+    "UserComments": "Dog-friendly patio, close to Pacific Spirit Park.",
+    "PetAmenities": [
+      "Water bowls",
+      "Shaded seating"
+    ],
+    "Photos": [
+      {
+        "url": "https://biercraft.com/wp-content/uploads/2021/05/Wesbrook-Patio.jpg",
+        "alt": "Biercraft Wesbrook - dog-friendly patio view"
+      }
+    ],
+    "Notes": "Great after a walk in the park.",
+    "Sources": [
+      "https://biercraft.com/locations/wesbrook-village/",
+      "https://dailyhive.com/vancouver/dog-friendly-patios-in-vancouver"
+    ],
+    "reviewCount": 0,
+    "Geo": {
+      "Latitude": 49.2542,
+      "Longitude": -123.2421,
+      "GoogleMapsURL": "https://goo.gl/maps/5Qw8Qw8Qw8Qw8Qw8A"
+    },
+    "Contact": {
+      "WebsiteURL": "https://biercraft.com/locations/wesbrook-village/",
+      "Instagram": "@biercraft",
+      "Hours": "Mon\u2013Sun 11am\u2013late"
+    },
+    "SEO": {
+      "metaTitle": "Biercraft Wesbrook - Dog-Friendly Belgian/European in UBC/Wesbrook Village, Vancouver",
+      "metaDescription": "Discover Biercraft Wesbrook, a dog-friendly belgian/european located in UBC/Wesbrook Village, Vancouver. Enjoy pet-friendly amenities and a welcoming atmosphere.",
+      "keywords": [
+        "ubc/wesbrook",
+        "dog-friendly",
+        "wesbrook",
+        "village",
+        "vancouver",
+        "belgian/european",
+        "biercraft"
+      ],
+      "schemaType": ""
+    },
+    "Monetization": {
+      "isSponsored": false,
+      "sponsorDetails": "",
+      "affiliateLink": "",
+      "ctaText": "",
+      "adSlots": []
+    },
+    "Tracking": {
+      "createdAt": "2025-04-21T18:09:53.061917Z",
+      "lastVerified": "2025-04-21T18:09:53.061919Z",
+      "curatedBy": "automated_script",
+      "sourceReliabilityScore": 0.8
+    }
+  }
+]
