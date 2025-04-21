@@ -1,0 +1,28 @@
+{
+  "name": "dog-patio-vancouver",
+  "version": "1.0.0",
+  "description": "Directory of dog-friendly patios in Vancouver with structured data, Firestore integration, and SEO support.",
+  "main": "index.js",
+  "scripts": {
+    "docs": "node scripts/generate-docs.js",
+    "import": "node scripts/import-patios.js",
+    "validate": "echo 'Validation script coming soon!'",
+    "start": "vite"
+  },
+  "keywords": [
+    "firebase",
+    "dog-friendly",
+    "patios",
+    "vancouver",
+    "directory",
+    "react",
+    "firestore",
+    "data-schema"
+  ],
+  "author": "ProActive ReSolutions",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-admin": "^11.10.1"
+  },
+  "type": "module"
+}
