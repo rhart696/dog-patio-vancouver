@@ -40,3 +40,60 @@ serviceAccountKey.json
 *.njsproj
 *.sln
 *.sw?
+
+# Generated folders
+node_modules/
+.env
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# API keys and credentials
+**/credentials.*
+**/serviceAccount.*
+**/*.key
+**/*.pem
+**/*.p12
+**/*.pfx
+**/*.crt
+
+# Configuration with potential secrets
+config.js
+config.json
+settings.json
+!example.config.js
+!example.settings.json
+
+# Other potential secret containers
+**/.vercel
+**/.netlify
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# API keys and credentials
+**/credentials.*
+**/serviceAccount.*
+**/*.key
+**/*.pem
+**/*.p12
+**/*.pfx
+**/*.crt
+
+# Configuration with potential secrets
+config.js
+config.json
+settings.json
+!example.config.js
+!example.settings.json
+
+# Other potential secret containers
+**/.vercel
+**/.netlify

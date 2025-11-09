@@ -1,0 +1,6 @@
+  Size: 110M
+  Last commit: 2025-04-24 17:16:53 -0700
+  Remote: https://github.com/rhart696/dog-patio-vancouver.git
+  Uncommitted changes: 33 files
+
+Repository: /home/ichardart/code/infra/A2A

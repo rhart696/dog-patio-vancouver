@@ -1,0 +1,36 @@
+Repository: /home/ichardart/code/products/dog-patio-vancouver
+=================================
+ M .gitignore
+ D app/.gitignore
+ D app/README.md
+ D app/eslint.config.js
+ D app/index.html
+ D app/package-lock.json
+ D app/package.json
+ D app/public/vite.svg
+ D app/src/App.css
+ D app/src/App.jsx
+ D app/src/assets/react.svg
+ D app/src/firebase.js
+ D app/src/index.css
+ D app/src/main.jsx
+ D app/src/services/patios.js
+ D app/vite.config.js
+ D frontend/.gitignore
+ D frontend/README.md
+ M frontend/package-lock.json
+ M frontend/package.json
+ M frontend/src/App.jsx
+ M frontend/src/index.css
+ M package-lock.json
+ M package.json
+?? .clinerules
+?? .env.example
+?? .roo
+?? audit-pre-migration.txt
+?? frontend/README.vite.md
+?? frontend/postcss.config.js
+?? frontend/src/firebase.js
+?? frontend/src/services/
+?? frontend/tailwind.config.js
+

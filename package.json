@@ -1,28 +1,35 @@
 {
   "name": "dog-patio-vancouver",
   "version": "1.0.0",
-  "description": "Directory of dog-friendly patios in Vancouver with structured data, Firestore integration, and SEO support.",
+  "description": "Directory of dog-friendly patios in Vancouver with structured data, Firebase integration, and Vite-based frontend.",
   "main": "index.js",
   "scripts": {
+    "start": "vite --root frontend",
+    "dev": "cd frontend && vite dev",
+    "build": "vite build --root frontend",
+    "preview": "cd frontend && vite dev",
     "docs": "node scripts/generate-docs.js",
     "import": "node scripts/import-patios.js",
-    "validate": "echo 'Validation script coming soon!'",
-    "start": "vite"
+    "validate": "echo 'Validation script coming soon!'"
   },
   "keywords": [
     "firebase",
-    "dog-friendly",
-    "patios",
-    "vancouver",
-    "directory",
+    "vite",
     "react",
-    "firestore",
-    "data-schema"
+    "dog-patios",
+    "vancouver",
+    "directory"
   ],
   "author": "ProActive ReSolutions",
   "license": "MIT",
   "devDependencies": {
-    "firebase-admin": "^11.10.1"
+    "autoprefixer": "^10.4.21",
+    "firebase-admin": "^11.10.1",
+    "postcss": "^8.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.1.4",
+    "vite": "^5.2.0"
   },
   "type": "module"
 }

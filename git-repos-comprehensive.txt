@@ -1,0 +1,46 @@
+Size: 110M
+Last commit: 2025-04-24 17:16:53 -0700
+Remote: https://github.com/rhart696/dog-patio-vancouver.git
+Current branch: main
+Uncommitted changes: 35 files
+Tags: 0
+
+Repository: /home/ichardart/code/test-hooks
+=================================
+Size: 110M
+Last commit: 2025-04-24 17:16:53 -0700
+Remote: https://github.com/rhart696/dog-patio-vancouver.git
+Current branch: main
+Uncommitted changes: 35 files
+
+Repository: /home/ichardart/code/test-hooks
+=================================
+Size: 110M
+Last commit: 2025-04-24 17:16:53 -0700
+Remote: https://github.com/rhart696/dog-patio-vancouver.git
+Current branch: main
+Uncommitted changes: 35 files
+
+Repository: /home/ichardart/code/test-hooks
+=================================
+
+Repository: /home/ichardart/code/test-hooks
+=================================
+Size: 204K
+Last commit: 2025-04-27 10:52:45 -0700
+Remote: No remote
+Current branch: master
+Uncommitted changes: 4 files
+
+[53] Repository: /home/ichardart/code/products/dog-patio-vancouver
+=================================
+Size: 110M
+Last commit: 2025-04-24 17:16:53 -0700
+Remote: https://github.com/rhart696/dog-patio-vancouver.git
+Current branch: main
+Uncommitted changes: 35 files ⚠️
+
+[54] Repository: /home/ichardart/code/test-hooks
+Size: 204K
+Last commit: 2025-04-27 10:52:45 -0700
+Remote: No remote
