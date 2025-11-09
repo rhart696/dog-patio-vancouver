@@ -1,68 +1,89 @@
-import { useState, useEffect } from 'react';
-import { fetchPatios } from './services/patios'; // Import the function we created
-import './App.css'; // Keep existing styles if needed
+import { useState, useMemo } from 'react';
+import SearchBar from './components/SearchBar';
+import PatioList from './components/PatioList';
+import patiosData from './data-patios.json';
 
-function App() {
-  // State to hold the list of patios
-  const [patios, setPatios] = useState([]);
-  // State to track loading status
-  const [loading, setLoading] = useState(true);
-  // State to track potential errors
-  const [error, setError] = useState(null);
+export default function App() {
+  const [searchTerm, setSearchTerm] = useState('');
+  const [neighbourhoodFilter, setNeighbourhoodFilter] = useState('');
 
-  // useEffect hook to fetch data when the component mounts
-  useEffect(() => {
-    // Define an async function inside useEffect to call fetchPatios
-    const loadPatios = async () => {
-      try {
-        setLoading(true); // Start loading
-        setError(null); // Clear previous errors
-        const patiosData = await fetchPatios(); // Call the fetch function
-        setPatios(patiosData); // Update state with fetched data
-      } catch (err) {
-        console.error("Error in useEffect:", err);
-        setError("Failed to load patio data."); // Set error state
-        setPatios([]); // Clear patios on error
-      } finally {
-        setLoading(false); // Stop loading regardless of success/error
-      }
-    };
+  // Get unique neighbourhoods for filter
+  const neighbourhoods = useMemo(() => {
+    const uniqueNeighbourhoods = [...new Set(patiosData.map(p => p.Neighbourhood))];
+    return uniqueNeighbourhoods.sort();
+  }, []);
 
-    loadPatios(); // Call the async function
-  }, []); // Empty dependency array means this effect runs only once on mount
+  // Filter patios based on search and neighbourhood
+  const filteredPatios = useMemo(() => {
+    return patiosData.filter(patio => {
+      const matchesSearch = searchTerm === '' ||
+        patio.Name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        patio.FoodType.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        patio.Address.toLowerCase().includes(searchTerm.toLowerCase());
 
-  // --- Render Logic ---
+      const matchesNeighbourhood = neighbourhoodFilter === '' ||
+        patio.Neighbourhood === neighbourhoodFilter;
+
+      return matchesSearch && matchesNeighbourhood;
+    });
+  }, [searchTerm, neighbourhoodFilter]);
+
   return (
-    <>
-      <h1>Vancouver Dog-Friendly Patios</h1>
+    <div className="min-h-screen bg-gray-50">
+      {/* Header */}
+      <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white">
+        <div className="container mx-auto px-4 py-8">
+          <div className="flex items-center justify-between">
+            <div>
+              <h1 className="text-4xl font-bold flex items-center gap-2">
+                🐕 Dog Patio Vancouver
+              </h1>
+              <p className="text-blue-100 mt-2">
+                Find the perfect dog-friendly patio in Vancouver
+              </p>
+            </div>
+            <div className="text-right">
+              <p className="text-3xl font-bold">{patiosData.length}</p>
+              <p className="text-blue-100">Verified Patios</p>
+            </div>
+          </div>
+        </div>
+      </header>
 
-      {/* Display loading message */}
-      {loading && <p>Loading patios...</p>}
+      {/* Main Content */}
+      <main className="container mx-auto px-4 py-8">
+        {/* Search and Filter */}
+        <SearchBar
+          searchTerm={searchTerm}
+          setSearchTerm={setSearchTerm}
+          neighbourhoodFilter={neighbourhoodFilter}
+          setNeighbourhoodFilter={setNeighbourhoodFilter}
+          neighbourhoods={neighbourhoods}
+        />
 
-      {/* Display error message */}
-      {error && <p style={{ color: 'red' }}>{error}</p>}
-
-      {/* Display patio list or 'not found' message */}
-      {!loading && !error && (
-        <div>
-          {patios.length > 0 ? (
-            <ul>
-              {patios.map((patio) => (
-                // Use patio.id as the key for React list rendering
-                <li key={patio.id}>
-                  <strong>{patio.Name}</strong> ({patio.Neighbourhood || 'N/A'})
-                  {/* Add more details later */}
-                </li>
-              ))}
-            </ul>
+        {/* Results Count */}
+        <div className="mb-4 text-gray-600">
+          {filteredPatios.length === patiosData.length ? (
+            <p>Showing all {filteredPatios.length} dog-friendly patios</p>
           ) : (
-            // Message displayed if no patios are loaded (and not currently loading/error)
-            <p>No patios found. The database might be empty, or check Firestore rules/query.</p>
+            <p>Found {filteredPatios.length} patios matching your criteria</p>
           )}
         </div>
-      )}
-    </>
+
+        {/* Patio List */}
+        <PatioList patios={filteredPatios} />
+      </main>
+
+      {/* Footer */}
+      <footer className="bg-gray-800 text-white mt-12 py-8">
+        <div className="container mx-auto px-4 text-center">
+          <p className="mb-2">🐾 Made with love for Vancouver dog owners</p>
+          <p className="text-gray-400 text-sm">
+            Data current as of April 2025 |
+            <span className="ml-1">Please verify hours and policies before visiting</span>
+          </p>
+        </div>
+      </footer>
+    </div>
   );
 }
-
-export default App;
